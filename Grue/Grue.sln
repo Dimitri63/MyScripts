@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grue", "Grue\Grue.csproj", "{E4D7CB37-6DDC-46A6-81A8-49116071C068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D7CB37-6DDC-46A6-81A8-49116071C068}.Debug|x64.ActiveCfg = Debug|x64
+		{E4D7CB37-6DDC-46A6-81A8-49116071C068}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6298BA56-C0DD-4ED8-B257-0BCB25D77961}
+	EndGlobalSection
+EndGlobal

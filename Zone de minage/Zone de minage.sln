@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zone de minage", "Zone de minage\Zone de minage.csproj", "{8E233C86-E39E-4E80-A125-B774B9434B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E233C86-E39E-4E80-A125-B774B9434B97}.Debug|x64.ActiveCfg = Debug|x64
+		{8E233C86-E39E-4E80-A125-B774B9434B97}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {501C3839-C512-4A0C-820B-8319930F7279}
+	EndGlobalSection
+EndGlobal

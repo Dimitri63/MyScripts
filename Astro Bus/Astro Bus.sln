@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astro Bus", "Astro Bus\Astro Bus.csproj", "{2AD154EE-BD1F-42AA-9D1C-E47B834523B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD154EE-BD1F-42AA-9D1C-E47B834523B0}.Debug|x64.ActiveCfg = Debug|x64
+		{2AD154EE-BD1F-42AA-9D1C-E47B834523B0}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78B5DC2-4B6A-4F03-908E-78860E834292}
+	EndGlobalSection
+EndGlobal
